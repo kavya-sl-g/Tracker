@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="2xOKR1eOahtF8wd233JlLGBnOen" />
+  <component name="RunManager">
+    <configuration name="SimpleExpenseTracker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleExpenseTracker" />
+      <module name="Tracker" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleExpenseTracker" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
